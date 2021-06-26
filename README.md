@@ -1,4 +1,4 @@
-# awesome-solana
+# awesome-solana [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 Read the Awesome manifesto and list guidelines and ensure this list complies.
