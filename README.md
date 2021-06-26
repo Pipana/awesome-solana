@@ -10,23 +10,55 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 
 
 
-AMM (16)
-ANALYTICS (1)
-APP (43)
-DAO (1)
-DAPP (3)
-DEFI (71)
-DEX (21)
-EXCHANGE (21)
-EXPLORER (15)
-ECOSYSTEM FUND (13)
-GOVERNANCE (1)
-INFRASTRUCTURE (19)
-INVESTMENT FUND (1)
-NFTS (6)
-ORACLE (5)
-SPL (22)
-STABLECOIN (7)
-TOOLS (16)
-WALLET (20)
-WEB3 (2)
+
+
+
+
+
+## Contents
+
+- [Section](#section)
+- [Another Section](#another-section)
+- [AMM](#section)
+- [ANALYTICS](#section)
+- [APP](#section)
+- [DAO](#section)
+- [DAPP](#section)
+- [DEFI](#section)
+- [DEX](#section)
+- [EXCHANGE](#section)
+- [EXPLORER](#section)
+- [ECOSYSTEM FUND](#section)
+- [GOVERNANCE](#section)
+- [INFRASTRUCTURE](#section)
+- [INVESTMENT FUND](#section)
+- [NFTS](#section)
+- [ORACLE](#section)
+- [SPL](#section)
+- [STABLECOIN](#section)
+- [TOOLS](#section)
+- [WALLET](#section)
+- [WEB3](#section)
+
+
+
+
+## Section
+
+About this section. Optional. Keep this short and focus on the list.
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Another Section
+
+### Subsection
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
