@@ -1,8 +1,12 @@
 # awesome-solana
 
 
-These are category headings derived from 'solana ecosystem' projects listed at https://solana.com/ecosystem
+Read the Awesome manifesto and list guidelines and ensure this list complies.
+https://github.com/sindresorhus/awesome/blob/main/awesome.md
+https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md
 
+
+These are category headings derived from 'solana ecosystem' projects listed at https://solana.com/ecosystem
 
 
 
