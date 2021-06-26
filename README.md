@@ -9,6 +9,9 @@ https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md
 These are category headings derived from 'solana ecosystem' projects listed at https://solana.com/ecosystem
 
 
+Model this list after https://github.com/sindresorhus/awesome-nodejs
+
+
 
 
 
