@@ -1,5 +1,7 @@
 # awesome-solana [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Just type solana.cool to go here.
+
 
 Read the Awesome manifesto and list guidelines and ensure this list complies.
 https://github.com/sindresorhus/awesome/blob/main/awesome.md
