@@ -58,6 +58,7 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 - [Raydium](https://twitter.com/RaydiumProtocol) - The first AMM built on Solana to leverage a fully decentralised central limit order book.
 - [Solster](https://twitter.com/solster_finance)- Solster Finance is an IDO Launchpad built on Solana.
 - [HydraSwap](https://twitter.com/HydraSwap_io) - HydraSwap is a Solana-based dex that is dedicated to provide users with CEX-level trading experience, supported by game changing HMM core, cross-chain technologies and powerful multi-module components.
+- [SenSwap])(https://twitter.com/SenSwap) - SenSwap is the first AMM built on Serum and Solana.
 
 
 
