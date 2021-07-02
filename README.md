@@ -7,6 +7,8 @@ Just type solana.cool to go here.
 
 This repo is a not ready for pubic consumption. Work needs to be done to at least fill out all that the solana.com/ecosystem website lists and then we can expand it from there.
 
+Since we are using solana.com/ecosystem as a link list to get us started we should be aware that some projects listed belong to multiple categories. We should choose a primary category only for this awesome-list format.
+
 The links should be twitter-centric when possible. CT is a reliable entry point for most projects we might list. Fallback to a website, GitHub repo, or another logical choice.
 
 
