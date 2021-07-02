@@ -60,6 +60,7 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 - [LunaYield](https://twitter.com/Luna_Yield) - Cross-chain Yield Aggregator, DEX, Launchpad and Bridging tools
 - [Mercurial Finance](https://twitter.com/MercurialFi) - Mercurial is Solana's first multi-token stable swap and the best place to swap stables with the lowest slippage
 - [Nerve Finance](https://twitter.com/nervefinance) - Nerve is a trustless on-ramp and stableswap built on BSC and Solana.
+- [Orca](https://twitter.com/orca_so) - Orca is the first user-friendly cryptocurrency exchange built on Solana.
 - [Popsicle Finance](https://twitter.com/popsiclefinance) - A cross-chain yield enhancement platform focusing on Automated Market-Making (AMM) Liquidity Providers (LP).
 - [Raydium](https://twitter.com/RaydiumProtocol) - The first AMM built on Solana to leverage a fully decentralised central limit order book.
 - [Solster](https://twitter.com/solster_finance)- Solster Finance is an IDO Launchpad built on Solana.
