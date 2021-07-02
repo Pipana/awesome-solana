@@ -51,9 +51,12 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 
 ## AMM
 
+
 - [1Sol](https://twitter.com/1solProtocol) - An innovative cross-chain DeFi aggregator on Solana.
 - [Hedgehog](https://twitter.com/HedgehogMarket) - User-Centric Prediction Markets Platform on @solana Devnet
 - [HydraSwap](https://twitter.com/HydraSwap_io) - HydraSwap is a Solana-based dex that is dedicated to provide users with CEX-level trading experience, supported by game changing HMM core, cross-chain technologies and powerful multi-module components.
+- [IdentitySwap](https://github.com/civicteam/identity-swap) - IdentitySwap is an Automatic Money Market dApp that demonstrates decentralized identity on Solana.
+- [O3Labs](https://twitter.com/O3_Labs) - O3Labs maintains O3 Wallet, a mobile wallet, and O3 Swap, a cross-chain aggregation protocol.
 - [LunaYield](https://twitter.com/Luna_Yield) - Cross-chain Yield Aggregator, DEX, Launchpad and Bridging tools
 - [Mercurial Finance](https://twitter.com/MercurialFi) - Mercurial is Solana's first multi-token stable swap and the best place to swap stables with the lowest slippage
 - [Nerve Finance](https://twitter.com/nervefinance) - Nerve is a trustless on-ramp and stableswap built on BSC and Solana.
