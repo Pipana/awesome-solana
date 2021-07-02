@@ -67,6 +67,7 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 - [Solanax](https://twitter.com/Solanaxorg) - SOLANAX is a decentralized and non-custodial automated liquidity mechanism supporting trades within the Solana ecosystem.
 - [SenSwap](https://twitter.com/SenSwap) - SenSwap is the first AMM built on Serum and Solana.
 - [traderdome](https://traderdome.io/#/) - A new swap service built on Serum.
+- [Twirl Finance](https://twitter.com/twirlfinance) - Twirl Finance is an open source protocol that aims to find endless capabilities of liquidity provision, that enables multiple streams of yield on Solana.
 
 
 
