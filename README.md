@@ -50,8 +50,6 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 
 
 ## AMM
-### (Automated Market Maker)
-
 
 - [1Sol](https://twitter.com/1solProtocol) - An innovative cross-chain DeFi aggregator on Solana.
 - [Hedgehog](https://twitter.com/HedgehogMarket) - User-Centric Prediction Markets Platform on @solana Devnet
