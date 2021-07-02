@@ -4,6 +4,9 @@ Just type solana.cool to go here.
 
 This repo is a not ready for pubic consumption. Work needs to be done to at least fill out all that the solana.com/ecosystem website lists and then we can expand it from there.
 
+The links should be twitter-centric when possible. CT is a reliable entry point for most projects we might list. Fallback to a website, GitHub repo, or another logical choice.
+
+
 Read the Awesome manifesto and list guidelines and ensure this list complies.
 https://github.com/sindresorhus/awesome/blob/main/awesome.md
 https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md
