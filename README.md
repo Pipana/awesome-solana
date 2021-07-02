@@ -41,7 +41,8 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 
 
 
-## AMM (Automated Market Maker)
+## AMM
+### (Automated Market Maker)
 
 
 - [Hedgehog](https://twitter.com/HedgehogMarket) - User-Centric Prediction Markets Platform on @solana Devnet
