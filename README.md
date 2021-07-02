@@ -66,6 +66,7 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 - [Solster](https://twitter.com/solster_finance)- Solster Finance is an IDO Launchpad built on Solana.
 - [Solyard Finance](https://twitter.com/SolyardFinance) - Solafarm Finance is a Yield Farming Aggregator Optimizer protocol on Solana.
 - [Solanax](https://twitter.com/Solanaxorg) - SOLANAX is a decentralized and non-custodial automated liquidity mechanism supporting trades within the Solana ecosystem.
+- [SolFarm](https://twitter.com/Solfarmio) - SolFarm is an efficient Solana yield aggregator.
 - [SenSwap](https://twitter.com/SenSwap) - SenSwap is the first AMM built on Serum and Solana.
 - [traderdome](https://traderdome.io/#/) - A new swap service built on Serum.
 - [Twirl Finance](https://twitter.com/twirlfinance) - Twirl Finance is an open source protocol that aims to find endless capabilities of liquidity provision, that enables multiple streams of yield on Solana.
