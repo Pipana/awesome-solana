@@ -2,7 +2,7 @@
 
 Just type solana.cool to go here.
 
-This repo is a not ready for pubic consumption. Work needs to be done to at least fill out all that the solana.com/ecosystem website lists and then we can expand it from there. 
+This repo is a not ready for pubic consumption. Work needs to be done to at least fill out all that the solana.com/ecosystem website lists and then we can expand it from there.
 
 Read the Awesome manifesto and list guidelines and ensure this list complies.
 https://github.com/sindresorhus/awesome/blob/main/awesome.md
@@ -47,8 +47,7 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 
 - [Hedgehog](https://twitter.com/HedgehogMarket) - User-Centric Prediction Markets Platform on @solana Devnet
 - [Nerve Finance](https://twitter.com/nervefinance) - Nerve is a trustless on-ramp and stableswap built on BSC and Solana.
-
-
+- [Raydium](https://twitter.com/RaydiumProtocol) - The first AMM built on Solana to leverage a fully decentralised central limit order book.
 
 
 
