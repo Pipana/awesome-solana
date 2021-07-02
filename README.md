@@ -1,5 +1,8 @@
 # awesome-solana [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
+Please fork and help build this out. Non-devs contact @FranTiberious for help learning GitHub processes for becoming a contributer/maintainer. :) 
+
 Just type solana.cool to go here.
 
 This repo is a not ready for pubic consumption. Work needs to be done to at least fill out all that the solana.com/ecosystem website lists and then we can expand it from there.
