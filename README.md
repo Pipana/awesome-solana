@@ -53,8 +53,9 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 ### (Automated Market Maker)
 
 
--[1Sol](https://twitter.com/1solProtocol) - An innovative cross-chain DeFi aggregator on Solana.
+- [1Sol](https://twitter.com/1solProtocol) - An innovative cross-chain DeFi aggregator on Solana.
 - [Hedgehog](https://twitter.com/HedgehogMarket) - User-Centric Prediction Markets Platform on @solana Devnet
+- [LunaYield](https://twitter.com/Luna_Yield) - Cross-chain Yield Aggregator, DEX, Launchpad and Bridging tools
 - [Nerve Finance](https://twitter.com/nervefinance) - Nerve is a trustless on-ramp and stableswap built on BSC and Solana.
 - [Raydium](https://twitter.com/RaydiumProtocol) - The first AMM built on Solana to leverage a fully decentralised central limit order book.
 - [Solster](https://twitter.com/solster_finance)- Solster Finance is an IDO Launchpad built on Solana.
