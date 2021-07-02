@@ -17,9 +17,7 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#section)
-- [AMM](#section)
+- [AMM](#amm)
 - [ANALYTICS](#section)
 - [APP](#section)
 - [DAO](#section)
@@ -43,12 +41,18 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 
 
 
-## Section
+## AMM (Automated Market Maker)
 
-About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Hedgehog](https://twitter.com/HedgehogMarket) - User-Centric Prediction Markets Platform on @solana Devnet
+- [Nerve Finance](https://twitter.com/nervefinance) - Nerve is a trustless on-ramp and stableswap built on BSC and Solana.
+
+
+
+
+
+Please make pull request to help build out this list. Thanks!
+
 
 
 ## Another Section
