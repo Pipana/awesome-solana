@@ -53,15 +53,16 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 
 - [1Sol](https://twitter.com/1solProtocol) - An innovative cross-chain DeFi aggregator on Solana.
 - [Hedgehog](https://twitter.com/HedgehogMarket) - User-Centric Prediction Markets Platform on @solana Devnet
+- [HydraSwap](https://twitter.com/HydraSwap_io) - HydraSwap is a Solana-based dex that is dedicated to provide users with CEX-level trading experience, supported by game changing HMM core, cross-chain technologies and powerful multi-module components.
 - [LunaYield](https://twitter.com/Luna_Yield) - Cross-chain Yield Aggregator, DEX, Launchpad and Bridging tools
+- [Mercurial Finance](https://twitter.com/MercurialFi) - Mercurial is Solana's first multi-token stable swap and the best place to swap stables with the lowest slippage
 - [Nerve Finance](https://twitter.com/nervefinance) - Nerve is a trustless on-ramp and stableswap built on BSC and Solana.
+- [Popsicle Finance](https://twitter.com/popsiclefinance) - A cross-chain yield enhancement platform focusing on Automated Market-Making (AMM) Liquidity Providers (LP).
 - [Raydium](https://twitter.com/RaydiumProtocol) - The first AMM built on Solana to leverage a fully decentralised central limit order book.
 - [Solster](https://twitter.com/solster_finance)- Solster Finance is an IDO Launchpad built on Solana.
 - [Solyard Finance](https://twitter.com/SolyardFinance) - Solafarm Finance is a Yield Farming Aggregator Optimizer protocol on Solana.
-- [HydraSwap](https://twitter.com/HydraSwap_io) - HydraSwap is a Solana-based dex that is dedicated to provide users with CEX-level trading experience, supported by game changing HMM core, cross-chain technologies and powerful multi-module components.
-- [Mercurial Finance](https://twitter.com/MercurialFi) - Mercurial is Solana's first multi-token stable swap and the best place to swap stables with the lowest slippage
-- [Popsicle Finance](https://twitter.com/popsiclefinance) - A cross-chain yield enhancement platform focusing on Automated Market-Making (AMM) Liquidity Providers (LP).
 - [SenSwap](https://twitter.com/SenSwap) - SenSwap is the first AMM built on Serum and Solana.
+- [traderdome](https://traderdome.io/#/) - A new swap service built on Serum.
 
 
 
