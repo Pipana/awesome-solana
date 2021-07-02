@@ -54,7 +54,7 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 - [Hedgehog](https://twitter.com/HedgehogMarket) - User-Centric Prediction Markets Platform on @solana Devnet
 - [Nerve Finance](https://twitter.com/nervefinance) - Nerve is a trustless on-ramp and stableswap built on BSC and Solana.
 - [Raydium](https://twitter.com/RaydiumProtocol) - The first AMM built on Solana to leverage a fully decentralised central limit order book.
-[Solster](https://twitter.com/solster_finance)- Solster Finance is an IDO Launchpad built on Solana.
+- [Solster](https://twitter.com/solster_finance)- Solster Finance is an IDO Launchpad built on Solana.
 
 
 
