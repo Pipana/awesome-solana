@@ -64,6 +64,7 @@ These are category headings derived from 'solana ecosystem' projects listed at h
 - [Raydium](https://twitter.com/RaydiumProtocol) - The first AMM built on Solana to leverage a fully decentralised central limit order book.
 - [Solster](https://twitter.com/solster_finance)- Solster Finance is an IDO Launchpad built on Solana.
 - [Solyard Finance](https://twitter.com/SolyardFinance) - Solafarm Finance is a Yield Farming Aggregator Optimizer protocol on Solana.
+- [Solanax](https://twitter.com/Solanaxorg) - SOLANAX is a decentralized and non-custodial automated liquidity mechanism supporting trades within the Solana ecosystem.
 - [SenSwap](https://twitter.com/SenSwap) - SenSwap is the first AMM built on Serum and Solana.
 - [traderdome](https://traderdome.io/#/) - A new swap service built on Serum.
 
