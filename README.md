@@ -1,27 +1,16 @@
 # awesome-solana [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Just type solana.cool to go here.
+Just type [solana.cool](solana.cool) to go here.
+
+
 
 Read the Awesome manifesto and list guidelines and ensure this list complies.
 https://github.com/sindresorhus/awesome/blob/main/awesome.md
 https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md
 
-Modeling this awesome list after https://github.com/sindresorhus/awesome-nodejs
+Please submit a pull request if you know any resources that might be helpful to other developers!
 
 
-
-<h1 align="center">awesome-solana</h1>
-
-<div align="center">
-  <strong>A curated (unofficial) list of awesome things for people looking to build on Solana</strong>
-  
-  Please submit a pull request if you know any resources that might be helpful to other developers!
-</div>
-
-<div align="center">
-  
-  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-</div> 
 
 Table of Contents
 =================
@@ -30,7 +19,6 @@ Table of Contents
       * [Unofficial Network Stats](#unofficial-network-stats)
       * [Resources](#resources)
          * [Official Resources](#official-resources)
-            * [Podcast appearances](#podcast-appearances)
             * [Tutorials &amp; Projects](#tutorials--projects)
          * [Unofficial Resources](#unofficial-resources)
             * [Developer Tooling](#developer-tooling)
@@ -53,15 +41,6 @@ Table of Contents
 - [Youtube](https://www.youtube.com/c/Solanalabs)
 - [Blog](https://medium.com/solana-labs)
 - [Twitter](https://twitter.com/solana)
-
-#### Podcast appearances
-- [Coingecko Ep. 20](https://podcast.coingecko.com/719703/5526409-building-the-fastest-lowest-latency-blockchain-with-anatoly-yakovenko-founder-and-ceo-at-solana-ep-20?utm_source=twitter&utm_campaign=Podcast%2B&utm_medium=social&utm_term=20&0=)
-- [The Blockchain Debate Podcast Ep. 12](https://www.buzzsprout.com/767033/4648859-motion-scalability-is-impossible-without-sharding-and-layer-2-solutions-georgios-konstantopoulos-vs-anatoly-yakovenko-cohost-tarun-chitra)
-- [The FTX Podcast](https://youtu.be/y5RYRVeN-C4)
-- [Chorus One Podcast Ep. 16](https://www.stitcher.com/podcast/chorus-one-podcast/e/64417309?autoplay=false)
-- [The Bitcoin Podcast Network - Hashing it out Ep. 61](https://www.stitcher.com/podcast/the-bitcoin-podcast/e/64176232)
-- [Unchained Podcast - October 6, 2020](https://unchainedpodcast.com/can-solana-seize-marketshare-from-ethereum-with-serum/)
-- [The Erica Show Ep. 5](https://youtu.be/wYCZBG9JXVk)
 
 #### Tutorials & Projects
 - [Break Solana](https://github.com/solana-labs/break)
@@ -89,5 +68,4 @@ Table of Contents
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
 - [SPL Token UI Repo](https://github.com/paul-schaaf/spl-token-ui)
 
-## Projects building on Solana
-see [solana.com/ecosystem](https://www.solana.com/ecosystem)
+
