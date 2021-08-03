@@ -62,7 +62,16 @@ Table of Contents
 - [Solana Swift](https://github.com/ajamaica/Solana.Swift)
 - [Solana Kotlin](https://github.com/ajamaica/Solana.kt)
 
+
+
+#### Wallet
+
+- [`@solana/wallet-adapter`](https://github.com/solana-labs/wallet-adapter) Modular TypeScript wallet adapters and components for Solana applications.
+
+
+
 #### Tutorials & Projects
+
 - [Programming on Solana - An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 - [Voting App](https://medium.com/@smith_10562/a-simple-solana-dapp-tutorial-6dedbdf65444)
 - [Solana File Upload](https://github.com/mcf-rocks/solana-upload)
