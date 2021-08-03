@@ -1,8 +1,5 @@
 # awesome-solana [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-Please fork and help build this out.
-
 Just type solana.cool to go here.
 
 Read the Awesome manifesto and list guidelines and ensure this list complies.
@@ -16,11 +13,7 @@ Modeling this awesome list after https://github.com/sindresorhus/awesome-nodejs
 <h1 align="center">awesome-solana</h1>
 
 <div align="center">
-  🏎️🏎️🏎️
-</div>
-
-<div align="center">
-  <strong>A curated (unofficial) list of awesome things for people looking to buidl on Solana</strong>
+  <strong>A curated (unofficial) list of awesome things for people looking to build on Solana</strong>
   
   Please submit a pull request if you know any resources that might be helpful to other developers!
 </div>
